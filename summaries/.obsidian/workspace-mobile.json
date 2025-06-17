@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "c6a76e262fa3ded1",
+    "type": "split",
+    "children": [
+      {
+        "id": "54afb8dd23a2f516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9761b1a3eb382aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fig_summaries/Hydrography, inorganic nutrients and chlorophyll a linked to sea ice cover in the Atlantic Water inflow region north of Svalbard_fig_summary.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hydrography, inorganic nutrients and chlorophyll a linked to sea ice cover in the Atlantic Water inflow region north of Svalbard_fig_summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d2e902a098daf56",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "45eebe7b2097cae8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a8f821c44577e2fa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2f658f34d3ffeebe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d6d71f09b5cadbdc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ca6284fa26ff9176",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b701001929a951d0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "fig_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_fig_summary.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6c582f27b63a908c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "paragraph_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_paragraph_summary.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4a26cc170a7b5e12",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "paragraph_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_paragraph_summary.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9761b1a3eb382aaf",
+  "lastOpenFiles": [
+    "fig_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_fig_summary.md",
+    "story_summaries/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_story_summary.md",
+    "figure_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_figure_summary.md",
+    "papers/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience.md",
+    "story_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_story_summary.md",
+    "story_summaries/A thalamic-hippocampal CA1 signal for contextual fear memory suppression, extinction, and discrimination - Nature Communications_story_summary.md",
+    "fig_summaries/A thalamic-hippocampal CA1 signal for contextual fear memory suppression, extinction, and discrimination - Nature Communications_fig_summary.md",
+    "fig_summaries/Autonomic physiological coupling of the global fMRI signal - Nature Neuroscience_fig_summary.md",
+    "papers/Autonomic physiological coupling of the global fMRI signal - Nature Neuroscience.md",
+    "figure_summaries/Autonomic%20physiological%20coupling%20of%20the%20global%20fMRI%20signal%20-%20Nature%20Neuroscience_figure_summary.md",
+    "figure_summaries/Autonomic physiological coupling of the global fMRI signal - Nature Neuroscience_figure_summary.md",
+    "figure_summaries/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_figure_summary.md",
+    "figure_summaries/A thalamic-hippocampal CA1 signal for contextual fear memory suppression, extinction, and discrimination - Nature Communications_figure_summary.md",
+    "papers/A thalamic-hippocampal CA1 signal for contextual fear memory suppression, extinction, and discrimination - Nature Communications 1.md",
+    "papers/A thalamic-hippocampal CA1 signal for contextual fear memory suppression, extinction, and discrimination - Nature Communications.md",
+    "papers/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications.md",
+    "papers/The Quest for the Hippocampal Memory Engram From Theories to Experimental Evidence.md",
+    "papers",
+    "fig_summaries/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_fig_summary.md",
+    "paragraph_summaries/A thalamo-amygdalar circuit underlying the extinction of remote fear memories - Nature Neuroscience_paragraph_summary.md",
+    "paragraph_summaries/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_paragraph_summary.md",
+    "logic_structures/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_logic_structure.md",
+    "fact_extractions/A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications_fact_extraction.md",
+    "fig_summaries",
+    "A vagus nerve dominant tetra-synaptic ascending pathway for gastric pain processing - Nature Communications-summary.md",
+    "Untitled"
+  ]
+}
